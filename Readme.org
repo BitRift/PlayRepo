@@ -1,0 +1,12 @@
+#+STARTUP: showall hidestars
+
+* Motivation
+** Why are we looking at this?
+  - Reason 1
+  - Reason 2
+  - Reason 3
+
+* Explanation
+** Other stuff
+  - Thing 1
+  - Thing 2
